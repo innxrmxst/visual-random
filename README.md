@@ -1,6 +1,8 @@
 # visual-random
 # Simple script for visualizing the data generation of random x and y values ​​on a graph.
 
+![alt text](https://github.com/R4v3nG/visual-random/blob/main/example.png?raw=true)
+
 ## Installation
 ```bash
 git clone https://github.com/R4v3nG/visual-random.git
