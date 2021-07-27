@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 from logic import RandomWalk
-from random import randint
 # import uuid
 
 rw = RandomWalk(50000)
