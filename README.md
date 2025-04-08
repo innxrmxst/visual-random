@@ -1,4 +1,4 @@
-# Simple script for visualizing the data generation of random 'x' and 'y' values ​​on a graph.
+# Simple to visualize the data generation of random 'x' and 'y' values ​​on a graph.
 
 ![alt text](https://github.com/innxrmxst/visual-random/blob/main/example.png?raw=true)
 
